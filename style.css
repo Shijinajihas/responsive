@@ -1,0 +1,48 @@
+
+
+
+.container-fluid{
+    background-color:  #fffcf5;
+    width: 100%;
+    height: 100px;
+
+}
+.{
+    color: #b4a87d;
+}
+.row{
+    background-color:  #f5ecd9;
+    padding-top: 70px;
+    
+}
+
+.col-1, .col, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7,
+.col-8 ,.col-9,.col-10,.col-11,.col-12,.col-sm{
+    color:  #b4a87d;
+    
+
+  
+}
+.p-3{
+    text-align: center;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+ 
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  
+.container para{
+    color: black;
+}
